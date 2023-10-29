@@ -1,0 +1,47 @@
+.toggler {
+    width: 500px;
+    height: 200px;
+  }
+  #button {
+    padding: .5em 1em;
+    text-decoration: none;
+  }
+  #effect {
+    position: relative;
+    width: 240px;
+    height: 170px;
+    padding: 0.4em;
+  }
+  p{
+    text-align: right;
+  }
+  #effect h3 {
+    margin: 0;
+    padding: 0.4em;
+    text-align: center;
+  }
+  .menu{
+    background-color: rgb(30, 30, 30);
+    color: white;
+    border-color: transparent;
+    text-decoration: none;
+
+}
+.titre{
+  background-color:rgb(30, 30, 30);color: white;
+}
+.moi{
+  padding-right: 5px;
+
+}
+.titretra{
+  border-color:transparent;
+  color: darkblue;
+  font-size: 30px;
+}
+.h3{background-color:rgb(30, 30, 30);color: white;
+  
+  }
+  .lien{
+  padding-left: 20px; height: 10px; background-color: transparent; color: white;border-color: transparent;
+  }

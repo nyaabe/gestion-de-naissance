@@ -1,0 +1,40 @@
+.photo{
+    height:40%;
+    width: 90%;
+    margin-right: 90px;
+    
+
+}
+.f{
+    color:lightblue;
+     /* couleur bleu des marges general */
+}
+.card{
+    border:transparent  ;
+}
+.sepa{
+    padding-right:5px;/* la separation des icones */
+    height: 20px;
+}
+.photo2{
+    height:100%;/* la taille des photo de la deuxieme page */
+    width: 115%;
+}
+.bg{
+    background-color: darkblue;/* couleur de la nav bar */
+}
+.po{
+    margin-top: 10px;/* position des element des la nav bar */
+}
+.search{
+    border-radius: 0px 20px 20px 0px; margin-bottom: 5px;/* element de recherche de la nav bar */
+}
+.btn{
+    border-color: black;
+}
+.color{
+    color: white;
+}
+hr{
+    color:red;
+}

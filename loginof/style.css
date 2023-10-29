@@ -1,0 +1,29 @@
+
+.error{
+	color: red;
+	background: white;
+	padding: 10px;
+	
+	border-radius: 5px;
+
+}
+
+.uname{
+	color: red;
+	background: white;
+	padding: 10px; 
+	
+	border-radius: 5px;
+
+}
+.pass{
+	color: red;
+	background: white;
+	padding: 10px;
+	
+	border-radius: 5px;
+
+}
+body{
+	background-color: #ce75d4;
+}

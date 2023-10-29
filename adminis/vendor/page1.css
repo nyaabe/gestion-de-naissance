@@ -1,0 +1,30 @@
+.im{
+	width: 100px;
+	height: 60px;
+	text-align: center;
+	font-size: 60%;
+	color:rgb(145, 145, 255);
+}
+.rose{
+	background-color: rgb(255, 244, 234);/* color of the box page 1 */
+}
+.bleu{
+	background-color:aliceblue;
+}
+.card: hover{
+	background-color: blue;
+	border-color: blue;
+}
+/*h3{*/
+	background-color: rgb(30,30, 30);
+/*}*/
+.menu{background-color: rgb(30, 30, 30);color: white;
+
+}
+.titre{
+	background-color:rgb(30, 30, 30);color: white;
+}
+.moi{
+	padding-right: 5px;
+
+}
